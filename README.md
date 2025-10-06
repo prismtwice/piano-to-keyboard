@@ -5,7 +5,7 @@ Version 1.1
 Files: README.md, ptk88.py (88 key version), ptk55.py (55 key version)
 
 Sustain = space key  
-Notes A0 - B1 = Keys ctrl+1 - ctrl+t  (only in 88 key)
+Notes A0 - B1 = Keys ctrl+1 - ctrl+t  (only in 88 key)  
 Notes C2 - C7 = Keys 1 - m, with sharps being controlled by the shift key  
 Notes C#7 - C8 = Keys ctrl+y - ctrl+j  (only in 88 key)
 
