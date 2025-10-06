@@ -1,7 +1,7 @@
 # piano-to-keyboard
 Converts MIDI notes to either an 88 key format or a 55 key format
 
-Version 1.1
+Version 1.1  
 Files: README.md, ptk88.py (88 key version), ptk55.py (55 key version)
 
 Sustain = space key  
